@@ -84,8 +84,8 @@ python3 --version
 استنساخ المشروع:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 ثم شغّل الأداة:
@@ -114,8 +114,8 @@ sudo apt install git -y
 استنساخ المشروع:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 اختبار الأداة:
@@ -146,8 +146,8 @@ pkg install python git -y
 استنساخ المشروع:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 تشغيل المساعدة:
