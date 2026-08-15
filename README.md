@@ -25,9 +25,8 @@
 
 ##  🇵🇸 الوصف
 
-**Litche Dark Tunnel Proxy Checker**
-هي أداة مكتوبة بلغة Python
-مخصصة لفحص قائمة من البروكسيات واكتشاف البروكسيات التي تستجيب لاتصال method:CONNECT
+**Litche Dark Tunnel Proxy Checker** 
+مخصصة لفحص قائمة من البروكسيات واكتشاف البروكسيات التي تستجيب لاتصال **method:CONNECT**
 وتستطيع الوصول إلى SSH Host المحدد.
 
 الأداة تقوم بـ:
