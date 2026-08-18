@@ -10,7 +10,7 @@ import argparse
 
 VERSION = "1.0"
 AUTHOR = "Litche"
-TELEGRAM_GROUP = "https://t.me/DZCONFI"
+TELEGRAM_GROUP = "https://t.me/DZTEAMDEV"
 TELEGRAM_USER = "https://web.telegram.org/k/#@litcheeeee"
 
 WORKING_PROXIES_FILE = "dark_tunnel_stable.txt"
@@ -36,7 +36,7 @@ def banner():
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
-   Telegram Group : https://t.me/DZCONFI
+   Telegram Group : https://t.me/DZTEAMDEV
    Telegram       : @litcheeeee
 
    [!] هذه الأداة مخصصة لفحص استقرار البروكسيات
