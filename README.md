@@ -350,7 +350,7 @@ Litche-Dark-Tunnel/
 
 Telegram Group:
 
-https://t.me/DZCONFI
+https://t.me/DZTEAMDEV
 
 Telegram:
 
@@ -418,8 +418,8 @@ sudo apt install python3 -y
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 Run:
@@ -442,8 +442,8 @@ sudo apt install python3 git -y
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 Run:
@@ -466,8 +466,8 @@ pkg install python git -y
 Clone:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Litche588/DARK-TUNNEL-PROXY-CHECKER-.git
+cd DARK-TUNNEL-PROXY-CHECKER-
 ```
 
 Run:
@@ -566,7 +566,7 @@ MAX_THREADS = 30
 
 Telegram Group:
 
-https://t.me/DZCONFI
+https://t.me/DZTEAMDEV
 
 Telegram:
 
